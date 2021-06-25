@@ -13,7 +13,7 @@
     <a href="https://github.com/gradient-ai/PyTorch-Tutorial-Data-Parallelism">
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gradient-ai/PyTorch-Tutorial-Data-Parallelism">
     </a>
-    <a href="https://github.com/gradient-ai/PyTorch-Tutorial-Data-Parallelism/blob/main/data_parallel_tutorial.ipynb">
+    <a href="https://console.paperspace.com/github/gradient-ai/PyTorch-Tutorial-Data-Parallelism/blob/main/data_parallel_tutorial.ipynb">
         <img src="https://assets.paperspace.io/img/gradient-badge.svg" alt="Run on Gradient"/>
     </a>
 </p>
